@@ -38,5 +38,6 @@ The dashboard suggests that bike purchase behavior varies across demographic gro
 
 ## Screenshot
 
-   Dashboard
+   <img width="1106" height="713" alt="image" src="https://github.com/user-attachments/assets/d96372f4-ccc1-4d3f-9804-32030eefba93" />
+
 
